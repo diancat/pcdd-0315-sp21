@@ -269,7 +269,7 @@ p.thick {
 .primary-hue {
   display: flex;
   padding:3rem 1rem;
-  font-family: 'Padauk';
+  font-family: 'Padauk, sans-serif';
 }
 
 .primary-hue > div {
@@ -278,7 +278,7 @@ p.thick {
 
 .secondary-hue {
   display: flex;
-  padding:1.5rem 1rem;
+  padding:3em 1rem;
   color:#ffffff;
   font-family: 'Padauk', sans-serif;
 }
