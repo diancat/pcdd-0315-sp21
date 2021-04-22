@@ -40,7 +40,7 @@
       /* Color intentions */
       --primary: var(--nmds-brand-pink);
       --danger: var(--nmds-brand-scarlet);
-      --background: var(var(--brand-color);
+      --background: var(--brand-color);
       --textColor: var(--nmds-gray900);
       --buttonTextColor: var(--nmds-brand-blue);
       --lineColor: var(---nmds-gray200);
@@ -150,7 +150,7 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
   font-size: 60px;
-  line-height: 30px;
+  line-height: 30%;
   text-transform: uppercase;
   margin-bottom:1.25rem;
 
