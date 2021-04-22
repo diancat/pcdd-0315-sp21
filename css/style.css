@@ -45,7 +45,7 @@
       /* Color intentions */
       --primary: var(--nmds-brand-pink);
       --danger: var(--nmds-brand-scarlet);
-      --background: var(--nmds-gray100);
+      --background: var(--brand-color);
       --textColor: var(--nmds-gray900);
       --buttonTextColor: var(--nmds-brand-blue);
       --lineColor: var(---nmds-gray200);
@@ -72,7 +72,7 @@
 
 html {
   font-size: var(--baseFontSize);
-  background-color: var(--nmds-gray100);
+  background-color: var(--brand-color);
   font-family: 'Padauk', sans-serif;
 }
 
