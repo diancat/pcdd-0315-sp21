@@ -4,8 +4,8 @@
 
 @font-face {
     font-family: 'tradegothicbold';
-    src: url('trade-gothic-bold-condensed-no-20-1-webfont.woff2') format('woff2'),
-         url('trade-gothic-bold-condensed-no-20-1-webfont.woff') format('woff');
+    src: url('https://github.com/diancat/pcdd-0315-sp21/blob/f62e84051d6b86266ffffa0acb424e7ecc81b36d/Fonts/trade-gothic-bold-condensed-no-20-1-webfont.woff2') format('woff2'),
+         url('https://github.com/diancat/pcdd-0315-sp21/blob/f62e84051d6b86266ffffa0acb424e7ecc81b36d/Fonts/trade-gothic-bold-condensed-no-20-1-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
@@ -16,8 +16,8 @@
 
 @font-face {
     font-family: 'tradegothicregular';
-    src: url('trade-gothic-condensed-no-18-webfont.woff2') format('woff2'),
-         url('trade-gothic-condensed-no-18-webfont.woff') format('woff');
+    src: url('https://github.com/diancat/pcdd-0315-sp21/blob/f62e84051d6b86266ffffa0acb424e7ecc81b36d/Fonts/trade-gothic-condensed-no-18-webfont.woff2') format('woff2'),
+         url('https://github.com/diancat/pcdd-0315-sp21/blob/f62e84051d6b86266ffffa0acb424e7ecc81b36d/Fonts/trade-gothic-condensed-no-18-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
