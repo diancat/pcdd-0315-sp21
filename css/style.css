@@ -34,7 +34,6 @@
   --nmds-gray200: #E4E7E9;
   --nmds-gray100: #F1F3F4;
   --white:#FFFFFF;
-
   --brand-color:#FED430;
 
       /* Color intentions */
@@ -47,7 +46,7 @@
       --cardBg: var(--white);
 
     /* Type */
-    --bodyFont: "Work Sans", sans-serif;
+    --bodyFont: "Padauk", sans-serif;
     --baseFontSize: 100%;
     --smallText: var(--text-sm);
 
@@ -67,7 +66,7 @@
 
 html {
   font-size: var(--baseFontSize);
-  background-color: var(--nmds-gray100);
+  background-color: var(--brand-color);
   font-family: 'Padauk', sans-serif;
 }
 
@@ -149,8 +148,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: 60px;
-  line-height: 30%;
+  font-size:var(--text-xxxl);
   text-transform: uppercase;
   margin-bottom:1.25rem;
 
