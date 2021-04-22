@@ -34,13 +34,21 @@
   --nmds-gray200: #E4E7E9;
   --nmds-gray100: #F1F3F4;
   --white:#FFFFFF;
-  --brand-color:#FED430;
+  
+  --brand-color:#FDFB38;
   --secondary-color:#000000;
+
   --neutral-color-600:#262626;
   --neutral-color-500:#363636;
   --neutral-color-400:#4a4a4a;
   --neutral-color-300:#B6B6B6;
-  
+  --neutral-color-200:#E6E6E6;
+  --neutral-color-100:#F7F7F7;
+
+  --accent-color-500:#FED330;
+  --accent-color-400:#FEDD59;
+  --accent-color-300:#FEE583;
+  --accent-color-200:#FFEEAC;
 
       /* Color intentions */
       --primary: var(--nmds-brand-pink);
@@ -220,45 +228,42 @@ p.thick {
 
 /* Color samples */
 
-
   .color-brand-color {
     background-color: var(--brand-color);
   }
   .color-secondary-color {
     background-color: var(--secondary-color);
   }
-  .color-brand-blue {
-    background-color: var(--nmds-brand-blue);
+  .color-neutral-color-600 {
+    background-color: var(--neutral-color-600);
   }
-  .color-brand-emerald {
-    background-color: var(--nmds-brand-emerald);
+  .color-neutral-color-500 {
+    background-color: var(--neutral-color-500);
   }
-  .color-brand-lime {
-    background-color: var(--nmds-brand-lime);
+  .color-neutral-color-400 {
+    background-color: var(--neutral-color-400);
   }
-  .color-brand-yellow {
-    background-color: var(--nmds-brand-yellow);
+  .color-neutral-color-300 {
+    background-color: var(--neutral-color-300);
   }
-
-  .color-gray900 {
-    background-color: var(--nmds-gray900);
+  .color-neutral-color-200 {
+    background-color: var(--neutral-color-200);
   }
-
-  .color-gray800 {
-    background-color: var(--nmds-gray800);
+  .color-neutral-color-100 {
+    background-color: var(--neutral-color-100);
   }
-
-
-  .color-gray300 {
-    background-color: var(--nmds-gray300);
+  .color-accent-color-500 {
+    background-color: var(--accent-color-500);
   }
-
-
-  .color-gray200 {
-    background-color: var(--nmds-gray200);
+  .color-accent-color-400 {
+    background-color: var(--accent-color-400);
   }
-
-
+  .color-accent-color-300 {
+    background-color: var(--accent-color-300);
+  }
+  .color-accent-color-200 {
+    background-color: var(--accent-color-200);
+  }
   .color-gray100 {
     background-color: var(--nmds-gray100);
   }
@@ -269,7 +274,7 @@ p.thick {
 .primary-hue {
   display: flex;
   padding:3rem 1rem;
-  font-family: 'Padauk, sans-serif';
+  font-family: 'Padauk', sans-serif;
 }
 
 .primary-hue > div {
