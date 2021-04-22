@@ -35,10 +35,12 @@
   --nmds-gray100: #F1F3F4;
   --white:#FFFFFF;
 
+  --brand-color:#FED430;
+
       /* Color intentions */
       --primary: var(--nmds-brand-pink);
       --danger: var(--nmds-brand-scarlet);
-      --background: var(--nmds-gray100);
+      --background: var(var(--brand-color);
       --textColor: var(--nmds-gray900);
       --buttonTextColor: var(--nmds-brand-blue);
       --lineColor: var(---nmds-gray200);
@@ -116,7 +118,6 @@ main {
 
 .section {
   background:#fff;
-  box-shadow: 3px 3px 2px 1px rgba(111, 111, 111, .2);
   padding:2rem;
   margin-bottom:2rem;
 }
