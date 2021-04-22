@@ -191,7 +191,6 @@ h4 {
 
 p, li {
   font-size: 1rem;
-  line-height: 1.5;
   margin-top:var(--space-md);
   margin-bottom:var(--space-md);
   color:var(--text-color);
@@ -268,9 +267,6 @@ p.thick {
     background-color: var(--nmds-gray100);
   }
 
-
-
-
 .primary-hue {
   display: flex;
   padding:3rem 1rem;
@@ -318,21 +314,6 @@ p.thick {
   color:var(--text-color);
 }
 
-
-
-
-
 img {
   width:100%;
 }
-
-
-
-
-
-
-
-
-
-
-
