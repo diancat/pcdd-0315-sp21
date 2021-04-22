@@ -1,18 +1,4 @@
 @import url('https://fonts.googleapis.com/css2?family=Work+Sans&display=swap');
-@font-face {
-  font-family: 'tradegothicbold';
-  src: url('https://github.com/diancat/pcdd-0315-sp21/blob/f62e84051d6b86266ffffa0acb424e7ecc81b36d/Fonts/trade-gothic-bold-condensed-no-20-1-webfont.woff2') format('woff2'),
-       url('https://github.com/diancat/pcdd-0315-sp21/blob/f62e84051d6b86266ffffa0acb424e7ecc81b36d/Fonts/trade-gothic-bold-condensed-no-20-1-webfont.woff') format('woff');
-  font-weight: normal;
-  font-style: normal;
-}
-@font-face {
-  font-family: 'tradegothicregular';
-  src: url('https://github.com/diancat/pcdd-0315-sp21/blob/f62e84051d6b86266ffffa0acb424e7ecc81b36d/Fonts/trade-gothic-condensed-no-18-webfont.woff2') format('woff2'),
-       url('https://github.com/diancat/pcdd-0315-sp21/blob/f62e84051d6b86266ffffa0acb424e7ecc81b36d/Fonts/trade-gothic-condensed-no-18-webfont.woff') format('woff');
-  font-weight: normal;
-  font-style: normal;
-}
 /*! minireset.css v0.0.6 | MIT License */ html,body,p,ol,ul,li,dl,dt,dd,blockquote,figure,fieldset,legend,textarea,pre,iframe,hr,h1,h2,h3,h4,h5,h6{margin:0;padding:0}h1,h2,h3,h4,h5,h6{font-size:100%;font-weight:normal}ul{list-style:none}button,input,select,textarea{margin:0}html{box-sizing:border-box}*,*::before,*::after{box-sizing:inherit}img,video{height:auto;max-width:100%}iframe{border:0}table{border-collapse:collapse;border-spacing:0}td,th{padding:0}td:not([align]),th:not([align]){text-align:left}
 
 :root {
