@@ -188,6 +188,12 @@ h4 {
   font-size: 18px;
   text-transform: uppercase;
 }
+.tag-light {
+  font-family: 'tradegothicregular';
+  font-size: 18px;
+  text-transform: uppercase;
+  color: #ffffff;
+}
 
 p, li {
   font-size: 1rem;
@@ -317,3 +323,5 @@ p.thick {
 img {
   width:100%;
 }
+
+/* Buttons */
